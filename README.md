@@ -1,2 +1,2 @@
 # vitest-introduction
-TestApp is a simple Node.js application aimed at providing a learning environment for practicing logic and creating unit tests using the Vitest library.
+This is a Node.js application developed for practicing logic and creating unit tests using VITest. The application enforces specific business rules: it prevents overlapping appointments, disallows appointments with end dates earlier than start dates, and restricts the creation of appointments with past start dates.
